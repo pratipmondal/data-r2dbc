@@ -26,7 +26,7 @@ import static java.time.Duration.ofSeconds;
  * @author hantsy
  */
 
-@Configuration
+/*@Configuration
 @EnableR2dbcRepositories
 public class DatabaseConfig extends AbstractR2dbcConfiguration {
 
@@ -51,7 +51,7 @@ public class DatabaseConfig extends AbstractR2dbcConfiguration {
         return connectionFactory;
     }
 
-}
+}*/
 //@Configuration
 //public class DatabaseConfig {
 //
