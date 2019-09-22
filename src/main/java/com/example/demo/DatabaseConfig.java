@@ -38,7 +38,7 @@ public class DatabaseConfig extends AbstractR2dbcConfiguration {
                         .port(5432)
                         .database("reactive")
                         .username("postgres")
-                        .password("Ocbc2019").build()
+                        .password("Company2019").build()
         );
 
         ConnectionPoolConfiguration configuration = ConnectionPoolConfiguration.builder(connectionFactory)
